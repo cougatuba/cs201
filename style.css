@@ -1,0 +1,59 @@
+body{
+		padding : 5px;
+	}
+	
+	#background{
+		padding : 0;
+		background-color: #ffffff;
+	}
+	
+	
+	#header{
+		background-color : #0066ff;
+		color : #ffffff;
+		padding : 5px;
+		margin : 0;
+	}
+	
+	#name{
+		font-size:24px;
+		color : #ffffff;
+	}
+	
+	#links{
+		list-style-type : none;
+		margin : 0;
+		padding : 0px;
+		background-color : 0066ff;
+	}
+	
+	#LIlink{
+		display : inline;
+		width : 60px;
+		text-align : center;	
+		padding-right : 10px;
+		text-decoration: none;
+		color : #ffffff;
+	}
+	
+	#LIlink:hover {
+		background-color : #ffffff;
+		color : #000000;
+	}
+	
+	
+	
+	#picture{
+		padding-top: 10px;
+		width : 33%;
+		float: left;
+	}
+	
+	#info{
+		padding-left: 10px;
+		width : 66%;
+		
+		float : left;
+	}
+	
+}
