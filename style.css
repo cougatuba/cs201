@@ -52,8 +52,39 @@ body{
 	#info{
 		padding-left: 10px;
 		width : 66%;
-		
 		float : left;
 	}
+	
+	
+	#side{
+		width : 33%;
+		float : left;
+	}
+	
+	.button {
+		background-color : white;
+		border : none;
+		padding : 20px;
+		text-align : center;
+		text-decoration : none;
+		display : inline-block;
+		margin : 5px;
+	}
+	
+	#center{
+		text-align : center;
+	}
+	
+	#main{
+		padding-top : 10px;
+		
+	}
+	
+	#aTitle{
+		color
+		
+	}
+
+	
 	
 }
